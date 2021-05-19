@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/GigaWallet/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/GigaWallet/static/js/main.f21a9b73.chunk.js",
+    "main.js.map": "/GigaWallet/static/js/main.f21a9b73.chunk.js.map",
+    "runtime-main.js": "/GigaWallet/static/js/runtime-main.1cee3fa6.js",
+    "runtime-main.js.map": "/GigaWallet/static/js/runtime-main.1cee3fa6.js.map",
+    "static/js/2.f2d541cc.chunk.js": "/GigaWallet/static/js/2.f2d541cc.chunk.js",
+    "static/js/2.f2d541cc.chunk.js.map": "/GigaWallet/static/js/2.f2d541cc.chunk.js.map",
+    "index.html": "/GigaWallet/index.html",
+    "precache-manifest.fddb2294a5696244908c55c808da157b.js": "/GigaWallet/precache-manifest.fddb2294a5696244908c55c808da157b.js",
+    "service-worker.js": "/GigaWallet/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/GigaWallet/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.f2d541cc.chunk.js.LICENSE.txt": "/GigaWallet/static/js/2.f2d541cc.chunk.js.LICENSE.txt",
+    "static/media/background.png": "/GigaWallet/static/media/background.0cba03a8.png",
+    "static/media/logo.png": "/GigaWallet/static/media/logo.81ffb3c3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cee3fa6.js",
+    "static/js/2.f2d541cc.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.f21a9b73.chunk.js"
+  ]
+}
